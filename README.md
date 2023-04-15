@@ -1,5 +1,6 @@
 
-## Ekran Görüntüleri
+## Screen Shots
+
 ![1](https://user-images.githubusercontent.com/105236639/228268452-60e8143d-fe51-4eb9-882a-61708d98568d.png)
 ![2](https://user-images.githubusercontent.com/105236639/228268459-a960fc0c-fded-4df9-9cd8-c9be296da457.png)
 
