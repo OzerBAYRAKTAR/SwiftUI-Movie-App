@@ -25,7 +25,7 @@ SwiftUI iOS app to see a list of popular,live,top rated and upcoming movies for 
 * Copy and Clone the project
 * Paste the API Key inside MovieService.swift
 * Build and run the project
-## API Kullanımı
+## Used API
 
 * Register for API Key at https://themoviedb.org
 
